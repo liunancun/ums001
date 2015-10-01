@@ -24,8 +24,12 @@ public class SessionFilter implements Filter {
 		HttpServletResponse resp = (HttpServletResponse) response;
 		HttpSession session = req.getSession();
 
-		
-		
+		String path = req.getServletPath();
+		if (session.getAttribute("login") == null
+				&& !path.equals("/login.action")) {
+			resp.sendRedirect(req.getContextPath() + "/login.html");
+			return;
+		}
 		chain.doFilter(request, response);
 	}
 
