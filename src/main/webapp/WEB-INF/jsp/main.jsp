@@ -4,7 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>UMS</title>
+<title>主页</title>
+<link rel="stylesheet" type="text/css" href="css/main.css" />
 </head>
 <body>
 	<h1>用户管理系统主页面</h1>

@@ -60,6 +60,7 @@ input {
 }
 
 input:first-child {
+	/*设置上外边距*/
 	margin-top: 0px;
 }
 
