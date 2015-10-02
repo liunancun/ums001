@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>用户管理系统主页面</h1>
+	<a href="logout.action">Log Out</a>
 </body>
 </html>
