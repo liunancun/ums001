@@ -4,11 +4,20 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>主页</title>
+<title>main</title>
+<link rel="stylesheet" type="text/css" href="css/ums.css" />
 <link rel="stylesheet" type="text/css" href="css/main.css" />
 </head>
 <body>
-	<h1>用户管理系统主页面</h1>
-	<a href="logout.action">Log Out</a>
+	<nav>
+		<button class="selected">Home</button>
+		<button
+			onclick="window.location.href='<%=request.getContextPath()%>/role/list.action'">Role</button>
+		<button
+			onclick="window.location.href='<%=request.getContextPath()%>/user/list.action'">User</button>
+		<button
+			onclick="window.location.href='<%=request.getContextPath()%>/logout.action'">Exit</button>
+	</nav>
+	<h1>U.M.S</h1>
 </body>
 </html>
