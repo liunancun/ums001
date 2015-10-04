@@ -1,0 +1,12 @@
+input {
+	/*设置边框的样式*/
+	border: none;
+	/*添加圆角边框*/
+	border-radius: 4px;
+	/*设置背景颜色*/
+	background: #282321;
+	/*添加阴影*/
+	-webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.6), 0 1px 0 #5e524f;
+	-moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.6), 0 1px 0 #5e524f;
+	box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.6), 0 1px 0 #5e524f;
+}
