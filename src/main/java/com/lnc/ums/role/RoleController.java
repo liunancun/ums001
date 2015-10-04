@@ -12,9 +12,14 @@ public class RoleController {
 		return "role/list";
 	}
 
-	@RequestMapping("add")
+	@RequestMapping("initAdd")
 	public String initAdd() {
 		return "role/add";
+	}
+
+	@RequestMapping("add")
+	public String add() {
+		return "redirect:list.action";
 	}
 
 }

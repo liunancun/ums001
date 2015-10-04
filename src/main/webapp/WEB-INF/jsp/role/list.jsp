@@ -41,7 +41,7 @@
 		</div>
 	</form>
 	<div class="tool">
-		<a href="<%=request.getContextPath()%>/role/add.action">
+		<a href="<%=request.getContextPath()%>/role/initAdd.action">
 			<button>Add</button>
 		</a>
 	</div>

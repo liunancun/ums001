@@ -14,10 +14,14 @@ form.search div {
 
 form.search div.label {
 	width: 15%;
-	padding-left: 10px;
 	font-size: 18px;
 	color: #161312;
 	text-shadow: 0 1px 0 #4b433e;
+}
+
+form.search div.label:nth-child(4n-1) {
+	/*输入框中间间隔*/
+	padding-left: 10px;
 }
 
 form.search div.input {

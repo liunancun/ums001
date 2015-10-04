@@ -12,9 +12,14 @@ public class UserController {
 		return "user/list";
 	}
 
-	@RequestMapping("add")
+	@RequestMapping("initAdd")
 	public String initAdd() {
 		return "user/add";
+	}
+
+	@RequestMapping("add")
+	public String add() {
+		return "redirect:list.action";
 	}
 
 }
