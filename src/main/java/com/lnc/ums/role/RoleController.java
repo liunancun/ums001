@@ -12,4 +12,9 @@ public class RoleController {
 		return "role/list";
 	}
 
+	@RequestMapping("add")
+	public String initAdd() {
+		return "role/add";
+	}
+
 }

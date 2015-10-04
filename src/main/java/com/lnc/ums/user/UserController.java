@@ -12,4 +12,9 @@ public class UserController {
 		return "user/list";
 	}
 
+	@RequestMapping("add")
+	public String initAdd() {
+		return "user/add";
+	}
+
 }

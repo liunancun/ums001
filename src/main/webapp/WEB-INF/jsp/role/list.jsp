@@ -15,13 +15,16 @@
 </head>
 <body>
 	<nav>
-		<button
-			onclick="window.location.href='<%=request.getContextPath()%>/main.action'">Home</button>
+		<a href="<%=request.getContextPath()%>/main.action">
+			<button>Home</button>
+		</a>
 		<button class="selected">Role</button>
-		<button
-			onclick="window.location.href='<%=request.getContextPath()%>/user/list.action'">User</button>
-		<button
-			onclick="window.location.href='<%=request.getContextPath()%>/logout.action'">Exit</button>
+		<a href="<%=request.getContextPath()%>/user/list.action">
+			<button>User</button>
+		</a>
+		<a href="<%=request.getContextPath()%>/logout.action">
+			<button>Exit</button>
+		</a>
 	</nav>
 	<form class="search" action="">
 		<div class="label">Role Name</div>
@@ -38,7 +41,9 @@
 		</div>
 	</form>
 	<div class="tool">
-		<button>Add</button>
+		<a href="<%=request.getContextPath()%>/role/add.action">
+			<button>Add</button>
+		</a>
 	</div>
 	<table class="datagrid">
 		<tr>

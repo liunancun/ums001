@@ -12,12 +12,15 @@
 <body>
 	<nav>
 		<button class="selected">Home</button>
-		<button
-			onclick="window.location.href='<%=request.getContextPath()%>/role/list.action'">Role</button>
-		<button
-			onclick="window.location.href='<%=request.getContextPath()%>/user/list.action'">User</button>
-		<button
-			onclick="window.location.href='<%=request.getContextPath()%>/logout.action'">Exit</button>
+		<a href="<%=request.getContextPath()%>/role/list.action">
+			<button>Role</button>
+		</a>
+		<a href="<%=request.getContextPath()%>/user/list.action">
+			<button>User</button>
+		</a>
+		<a href="<%=request.getContextPath()%>/logout.action">
+			<button>Exit</button>
+		</a>
 	</nav>
 	<h1>U.M.S</h1>
 </body>
