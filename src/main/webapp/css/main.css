@@ -1,7 +1,3 @@
-body {
-	text-align: center;
-}
-
 h1 {
 	/*设置字体*/
 	font-family: Arial;
@@ -13,11 +9,13 @@ h1 {
 	margin-top: 200px;
 	/*添加阴影*/
 	text-shadow: 0 1px 0 #6c5e5b, 0 -1px 0 rgba(0, 0, 0, 0.6);
+	text-align: center;
 }
 
 nav {
 	margin-top: 30px;
 	margin-bottom: 30px;
+	text-align: center;
 }
 
 nav button {
@@ -25,18 +23,4 @@ nav button {
 	font-size: 14px;
 	line-height: 14px;
 	padding: 10px 26px;
-}
-
-.content {
-	width: 800px;
-	margin: 0px auto;
-}
-
-.content table {
-	width: 100%;
-	padding: 5px;
-}
-
-input {
-	width: 100%;
 }
