@@ -1,4 +1,8 @@
 input {
+	/*文字颜色*/
+	color: #73635e;
+	/*文本阴影效果*/
+	text-shadow: 0 1px 1px #000;
 	/*设置边框的样式*/
 	border: none;
 	/*添加圆角边框*/
