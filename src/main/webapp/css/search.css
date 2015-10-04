@@ -1,13 +1,12 @@
 form.search {
 	width: 900px;
 	margin: 0 auto;
-	padding: 5px;
 	overflow: hidden;
 }
 
 form.search div {
-	height: 40px;
-	line-height: 39px;
+	height: 32px;
+	line-height: 31px;
 	float: left;
 	margin-top: 5px;
 	margin-bottom: 5px;

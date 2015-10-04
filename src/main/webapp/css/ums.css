@@ -1,4 +1,8 @@
 * {
+	/*设置字体*/
+	font-family: Arial;
+	font-size: 14px;
+	line-height: 14px;
 	/*设置内外边距*/
 	padding: 0px;
 	margin: 0px;

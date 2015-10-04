@@ -8,6 +8,8 @@
 <link rel="stylesheet" type="text/css" href="../css/input.css" />
 <link rel="stylesheet" type="text/css" href="../css/button.css" />
 <link rel="stylesheet" type="text/css" href="../css/search.css" />
+<link rel="stylesheet" type="text/css" href="../css/tool.css" />
+<link rel="stylesheet" type="text/css" href="../css/datagrid.css" />
 <link rel="stylesheet" type="text/css" href="../css/ums.css" />
 <link rel="stylesheet" type="text/css" href="../css/main.css" />
 </head>
@@ -35,5 +37,76 @@
 			<button type="reset">Reset</button>
 		</div>
 	</form>
+	<div class="tool">
+		<button>Add</button>
+	</div>
+	<table class="datagrid">
+		<tr>
+			<th width="15%">ID</th>
+			<th width="35%">User Name</th>
+			<th>Description</th>
+			<th width="15%">Operation</th>
+		</tr>
+		<tr>
+			<td>001</td>
+			<td>system</td>
+			<td>System</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>001</td>
+			<td>system</td>
+			<td>System</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>001</td>
+			<td>system</td>
+			<td>System</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>001</td>
+			<td>system</td>
+			<td>System</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>001</td>
+			<td>system</td>
+			<td>System</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>001</td>
+			<td>system</td>
+			<td>System</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>001</td>
+			<td>system</td>
+			<td>System</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>001</td>
+			<td>system</td>
+			<td>System</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>001</td>
+			<td>system</td>
+			<td>System</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>001</td>
+			<td>system</td>
+			<td>System</td>
+			<td></td>
+		</tr>
+	</table>
 </body>
 </html>

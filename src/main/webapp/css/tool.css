@@ -1,0 +1,10 @@
+div.tool {
+	width: 900px;
+	margin: 0px auto;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+div.tool button {
+	padding: 8px 20px;
+}
