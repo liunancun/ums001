@@ -7,9 +7,10 @@ table.datagrid {
 table.datagrid th {
 	text-shadow: 0 1px 0 #4b433e;
 	height: 32px;
+	background: #282321;
 	border-width: 1px;
 	border-style: solid;
-	background: #282321;
+	border-color: #282321;
 }
 
 table.datagrid td {
@@ -19,6 +20,7 @@ table.datagrid td {
 	padding-left: 10px;
 	border-width: 1px;
 	border-style: solid;
+	border-color: #282321;
 }
 
 table.datagrid td img {
