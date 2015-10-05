@@ -56,61 +56,131 @@
 			<td>001</td>
 			<td>system_role</td>
 			<td>System Role</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/role/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/role/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system_role</td>
 			<td>System Role</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/role/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/role/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system_role</td>
 			<td>System Role</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/role/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/role/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system_role</td>
 			<td>System Role</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/role/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/role/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system_role</td>
 			<td>System Role</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/role/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/role/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system_role</td>
 			<td>System Role</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/role/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/role/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system_role</td>
 			<td>System Role</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/role/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/role/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system_role</td>
 			<td>System Role</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/role/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/role/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system_role</td>
 			<td>System Role</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/role/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/role/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system_role</td>
 			<td>System Role</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/role/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/role/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 	</table>
 </body>

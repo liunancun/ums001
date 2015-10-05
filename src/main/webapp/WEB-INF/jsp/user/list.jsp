@@ -56,61 +56,131 @@
 			<td>001</td>
 			<td>system</td>
 			<td>System</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/user/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/user/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system</td>
 			<td>System</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/user/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/user/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system</td>
 			<td>System</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/user/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/user/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system</td>
 			<td>System</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/user/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/user/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system</td>
 			<td>System</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/user/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/user/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system</td>
 			<td>System</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/user/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/user/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system</td>
 			<td>System</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/user/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/user/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system</td>
 			<td>System</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/user/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/user/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system</td>
 			<td>System</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/user/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/user/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 		<tr>
 			<td>001</td>
 			<td>system</td>
 			<td>System</td>
-			<td></td>
+			<td>
+				<a href="<%=request.getContextPath()%>/user/initEdit.action">
+					<img alt="Edit" src="../img/edit.png" />
+				</a>
+				<a href="<%=request.getContextPath()%>/user/delete.action">
+					<img alt="Delete" src="../img/delete.png" />
+				</a>
+			</td>
 		</tr>
 	</table>
 </body>

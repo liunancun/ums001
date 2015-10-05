@@ -22,4 +22,19 @@ public class RoleController {
 		return "redirect:list.action";
 	}
 
+	@RequestMapping("initEdit")
+	public String initEdit() {
+		return "role/edit";
+	}
+
+	@RequestMapping("edit")
+	public String edit() {
+		return "redirect:list.action";
+	}
+
+	@RequestMapping("delete")
+	public String delete() {
+		return "redirect:list.action";
+	}
+
 }
