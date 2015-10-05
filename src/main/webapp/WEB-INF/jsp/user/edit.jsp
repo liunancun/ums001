@@ -7,9 +7,7 @@
 <title>Edit User</title>
 <link rel="stylesheet" type="text/css" href="../css/input.css" />
 <link rel="stylesheet" type="text/css" href="../css/button.css" />
-<link rel="stylesheet" type="text/css" href="../css/search.css" />
-<link rel="stylesheet" type="text/css" href="../css/tool.css" />
-<link rel="stylesheet" type="text/css" href="../css/datagrid.css" />
+<link rel="stylesheet" type="text/css" href="../css/edit.css" />
 <link rel="stylesheet" type="text/css" href="../css/ums.css" />
 <link rel="stylesheet" type="text/css" href="../css/main.css" />
 </head>
@@ -27,14 +25,14 @@
 		</a>
 	</nav>
 	<form action="<%=request.getContextPath()%>/user/edit.action"
-		class="search" method="post">
+		class="edit" method="post">
 		<div class="label">User Name</div>
 		<div class="input">
 			<input />
 		</div>
 		<div class="label">Description</div>
-		<div class="input">
-			<input />
+		<div class="text">
+			<textarea></textarea>
 		</div>
 		<div class="button">
 			<button type="submit">Submit</button>

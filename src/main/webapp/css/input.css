@@ -1,4 +1,6 @@
-input {
+input, textarea {
+	/*设置内边距*/
+	padding: 10px;
 	/*文字颜色*/
 	color: #73635e;
 	/*文本阴影效果*/
